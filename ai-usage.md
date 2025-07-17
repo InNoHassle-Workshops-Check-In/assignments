@@ -66,6 +66,7 @@ Created a template and structure for the assignment file
 **Tool(s):** ChatGPT  
 **Purpose:**  
 Created a template and structure for the assignment file
+
 ---
 
 *End of report.*
